@@ -1,2 +1,2 @@
 # Jenkins
-This is a demo repogitory built for jenkins demo
+This is a demo repository built for jenkins demo
